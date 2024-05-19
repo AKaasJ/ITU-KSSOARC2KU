@@ -81,7 +81,7 @@ I expect to spend more time on this report before the final portfolio hand-in. T
 - **Hypothesis one**: The rapid development of the package and the LLM space in general has lead to "spaghetti code" - increasing code complexity over time
   - Figure 2 showed a pretty stable complexity as measured by my simple proxy measure, but it also showed a major refactor occuring in version 0.0.349 which would be interesting to understand better.
 - **Hypothesis two**: The rapid development has introduced many new abstractions or modules over time.
-  - measured by the number of files and the fact that complexity hasn't increased it looks like there is some truth to this as well, but more analysis would be necessary.
+  - Measured by the number of files and the fact that complexity hasn't increased it looks like there is some truth to this as well, but more analysis would be necessary.
 
 ## TODO:
 
@@ -90,6 +90,10 @@ I expect to spend more time on this report before the final portfolio hand-in. T
 - It would also be interesting to analyze which contributors add or detract from code complexity in the project
 - Which pieces of code typically have changes introduced at the same time? (coupling)
 
+\newpage
+
 # References
 
 [1] A. Hindle, M.W. Godfrey, and R.C. Holt. Reading Beside the Lines: Indentation as a Proxy for Complexity Metric. Program Comprehension, 2008. ICPC 2008. The 16th IEEE International Conference on. IEEE Computer Society Press, Washington, DC, 2008.
+
+Repository: https://github.com/AKaasJ/ITU-KSSOARC2KU
