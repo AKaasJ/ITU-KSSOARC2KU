@@ -91,6 +91,7 @@ I expect to spend more time on this report before the final portfolio hand-in. T
 - When doing a more detailed static analysis look for places to recommend potential abstractions. This is especially important as it looks like complexity is on the rise in the project again.
 - It would also be interesting to analyze which contributors add or detract from code complexity in the project
 - Which pieces of code typically have changes introduced at the same time? (coupling)
+- Make report more concise
 
 \newpage
 
