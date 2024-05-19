@@ -1,4 +1,4 @@
-# Reconstruction report
+# Architectural Reconstruction report
 
 Course: Software Architecture 2023/2024
 
@@ -10,6 +10,8 @@ Date: May 19th, 2024
 
 
 # Introduction
+
+**Disclaimer** This report is still a work in progress.
 
 In the Architectural reconstruction assingment I wanted to take a look at the python langchain package.
 
